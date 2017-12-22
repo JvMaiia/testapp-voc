@@ -1,7 +1,7 @@
 test app
 ========
 
-an example of android.widget.EditText
+An example of android.widget.EditText
 
 ## How to run in development
 
@@ -16,6 +16,3 @@ Install the Python development requirements:
 Build and run the app:
 
     python setup.py android --start
-
-
-![Test screenshot](screenshot.png)
